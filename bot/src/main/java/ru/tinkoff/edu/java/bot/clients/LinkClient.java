@@ -6,7 +6,7 @@ import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
 import ru.tinkoff.edu.java.bot.DTO.AddLinkRequest;
 import ru.tinkoff.edu.java.bot.DTO.LinkResponse;
-import ru.tinkoff.edu.java.bot.DTO.ListLinkResponse;
+import ru.tinkoff.edu.java.bot.dto.ListLinkResponse;
 import ru.tinkoff.edu.java.bot.DTO.RemoveLinkRequest;
 
 public class LinkClient {
